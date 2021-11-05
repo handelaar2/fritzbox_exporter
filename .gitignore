@@ -3,4 +3,5 @@ fritzbox_exporter
 vendor/*
 .vscode/launch.json
 .gitignore
-.gitignore
+go.sum
+go.mod
