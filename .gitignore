@@ -6,3 +6,4 @@ vendor/*
 go.sum
 go.mod
 json_out.txt
+luatest_out.txt
