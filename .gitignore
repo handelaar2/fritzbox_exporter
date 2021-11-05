@@ -5,3 +5,4 @@ vendor/*
 .gitignore
 go.sum
 go.mod
+json_out.txt
